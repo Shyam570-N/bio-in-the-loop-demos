@@ -1,0 +1,9 @@
+row_id,compound,cell_type,cell_line_background,assay_type,ic50_nM,emax_pct,control_status
+1,Cmpd-A,T cell,WT,inhibition,52,98,pass
+2,Cmpd-A,Epithelial,WT,inhibition,48,30,pass
+3,Cmpd-B,T cell,WT,inhibition,35,90,pass
+4,Cmpd-C,T cell,KO-A,inhibition,120,85,pass
+5,Cmpd-C,T cell,KO-B,inhibition,410,75,pass
+6,Cmpd-D,T cell,WT,inhibition,TBD,60,pass
+7,Cmpd-D,T cell,WT,inhibition,88,150,pass
+8,Cmpd-E,T cell,WT,inhibition,75,80,
