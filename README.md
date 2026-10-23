@@ -64,6 +64,4 @@ On the example data it flags 3 syntactic and 6 semantic issues.
 Python 3.9 or later with numpy, pandas, and matplotlib (`pip install -r requirements.txt`).
 
 
-## Requirements
 
-Python 3.9 or later with numpy, pandas, and matplotlib (`pip install -r requirements.txt`).
